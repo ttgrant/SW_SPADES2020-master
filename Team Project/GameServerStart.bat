@@ -1,0 +1,1 @@
+java -cp .;ocsf.jar;mysql-connector-java-8.0.21.jar server.ServerGUI
