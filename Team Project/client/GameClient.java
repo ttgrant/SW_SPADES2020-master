@@ -40,7 +40,7 @@ public class GameClient extends AbstractClient {
 	}
 
 	public GameClient(GameGui gameGui) {
-		super("71.129.97.242", 8300);
+		super("sever address here", 8300);
 		this.gameGui = gameGui;
 	}
 
